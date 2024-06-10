@@ -13,8 +13,8 @@ Sistema desenvolvido como teste de conhecimento, como trabalho da disciplina Sis
 
 - __1.__ Clone esse repositório e o abra com o Visual Studio, de preferência;
 
-- __2.__ Execute, caso queira, via terminal `dotnet run`;
+- __2.__ Execute, caso queira, via Visual Studo da opção `executar`;
 
-- __3.__ Execute, caso queira, via Visual Studo da opção `executar`;
+- __3.__ Execute, caso queira, via terminal `dotnet run`;
   
 - __4.__ Se você receber uma mensagem de que o servidor está funcionando, foi efetuada com sucesso a integração. Caso não, verifique se a API está executando e reinicie esse front-end;
