@@ -14,11 +14,6 @@ namespace a3_202401
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void buttonCreateTask_Click(object sender, EventArgs e)
         {
             FormOperations form = new FormOperations(new TodoTask("", "", ""), this);
@@ -77,7 +72,7 @@ namespace a3_202401
                 }
                 catch (HttpRequestException ex)
                 {
-                    MessageBox.Show($"Erro na requisição HTTP: {todoTaskUrl + "api/task"}", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show($"Erro na requisiÃ§Ã£o HTTP: {todoTaskUrl + "api/task"}", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
         }
