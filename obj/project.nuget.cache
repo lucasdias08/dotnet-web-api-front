@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wB20mnVh9y0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ldluc\\Documents\\GitHub\\dotnet-we-api-front\\a3-202401.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ldluc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

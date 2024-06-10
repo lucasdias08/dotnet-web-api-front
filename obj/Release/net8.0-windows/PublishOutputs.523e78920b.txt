@@ -1,0 +1,6 @@
+C:\Users\ldluc\Documents\a3-202401.exe
+C:\Users\ldluc\Documents\a3-202401.dll
+C:\Users\ldluc\Documents\a3-202401.deps.json
+C:\Users\ldluc\Documents\a3-202401.runtimeconfig.json
+C:\Users\ldluc\Documents\a3-202401.pdb
+C:\Users\ldluc\Documents\Newtonsoft.Json.dll
